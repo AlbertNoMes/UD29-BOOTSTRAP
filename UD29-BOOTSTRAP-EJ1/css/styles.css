@@ -1,0 +1,42 @@
+body {
+  background: url(../img/fondo.jpg);
+}
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+h3 {
+  margin: 70px;
+  color: white;
+}
+h6 {
+  color: white;
+}
+p {
+  color: gray;
+}
+.form-floating {
+  color: grey;
+}
+.d-flex {
+  margin-top: 50px;
+  justify-content: center;
+  text-align: center;
+}
+img {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 30px;
+  right: 8px;
+}
+.card {
+  background: linear-gradient(
+    white 0%,
+    white 35%,
+    grey 35%,
+    grey 100%
+    
+  );
+}
